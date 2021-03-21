@@ -1,6 +1,6 @@
 # How to Run
-* Setup server
-* Create DataBase with the mane "itpal"
-* import DataBase from assets folder
+* Setup your mySQL server
+* Create DataBase with the mane of "itpal"
+* import Database from assets folder
 
-***NB> this is my fist project after learning PHP at 29-Nov-2016
+***NB> this is my fist project at the time of learning PHP in 2016.
